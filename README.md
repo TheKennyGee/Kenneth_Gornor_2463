@@ -16,3 +16,7 @@ Links:
 Graphics assignment 2
 [Link](https://thekennygee.github.io/Kenneth_Gornor_Graphics_1/Kenneth_Gornor_Graphics_2/macOSPaint/):
 https://thekennygee.github.io/Kenneth_Gornor_Graphics_1/Kenneth_Gornor_Graphics_2/macOSPaint/
+
+Graphics assignment 3
+[Link](https://thekennygee.github.io/Kenneth_Gornor_Graphics_1/Kenneth_Gornor_Graphics_3/Splinkus_Ultimax/):
+https://thekennygee.github.io/Kenneth_Gornor_Graphics_1/Kenneth_Gornor_Graphics_3/Splinkus_Ultimax/
