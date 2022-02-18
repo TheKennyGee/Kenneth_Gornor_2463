@@ -20,3 +20,7 @@ https://thekennygee.github.io/Kenneth_Gornor_2463/Kenneth_Gornor_Graphics_2/macO
 Graphics assignment 3
 [Link](https://thekennygee.github.io/Kenneth_Gornor_2463/Kenneth_Gornor_Graphics_3/Splinkus%20Ultimax/):
 https://thekennygee.github.io/Kenneth_Gornor_2463/Kenneth_Gornor_Graphics_3/Splinkus%20Ultimax/
+
+Graphics assignment 4
+[Link](https://thekennygee.github.io/Kenneth_Gornor_2463/Kenneth_Gornor_Graphics_4/Kill%20Splinkos/):
+https://thekennygee.github.io/Kenneth_Gornor_2463/Kenneth_Gornor_Graphics_4/Kill%20Splinkos/
