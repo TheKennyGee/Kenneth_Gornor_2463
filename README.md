@@ -24,3 +24,12 @@ https://thekennygee.github.io/Kenneth_Gornor_2463/Kenneth_Gornor_Graphics_3/Spli
 Graphics assignment 4
 [Link](https://thekennygee.github.io/Kenneth_Gornor_2463/Kenneth_Gornor_Graphics_4/Kill%20Splinkos/):
 https://thekennygee.github.io/Kenneth_Gornor_2463/Kenneth_Gornor_Graphics_4/Kill%20Splinkos/
+
+Sound assignment 1
+Links:
+  [Sampler](https://thekennygee.github.io/Kenneth_Gornor_2463/Kenneth_Gornor_Sound_1/)
+  https://thekennygee.github.io/Kenneth_Gornor_2463/Kenneth_Gornor_Sound_1/
+  
+  [Video](https://www.youtube.com/watch?v=vIZjh6HMEd4)
+  https://www.youtube.com/watch?v=vIZjh6HMEd4
+
