@@ -33,3 +33,8 @@ Links:
   [Video](https://www.youtube.com/watch?v=vIZjh6HMEd4)
   https://www.youtube.com/watch?v=vIZjh6HMEd4
 
+
+Sound assignment 3
+[Link:](https://thekennygee.github.io/Kenneth_Gornor_2463/Kenneth_Gornor_Sound_3/)
+  https://thekennygee.github.io/Kenneth_Gornor_2463/Kenneth_Gornor_Sound_1/
+  
